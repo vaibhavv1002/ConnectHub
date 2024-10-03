@@ -1,24 +1,60 @@
-# ConnectHub
-Developed a secure, real-time video conferencing application inspired by Google Meet, utilizing a modern tech stack including Node.js, Express.js, HTML, CSS, and JavaScript.
+# GMeet : A Google Meet Clone
+
+GMeet is a video calling platform similar to Google Meet made using NodeJS. 
 
 
-Implemented core video conferencing features such as unique meeting links, screen sharing capabilities, and persistent chat functionality to enhance user experience and collaboration.
+## Visit the official website!
+
+Visit the website from this link : https://google-meeting.herokuapp.com/
 
 
-Leveraged cutting-edge web technologies, specifically WebRTC for real-time audio/video communication and Socket.io for bidirectional event-based communication between server and clients.
+## Features
+
+- Create unique meeting links, people only with a given link can join that meeting.
+- Turn on/off your audio video.
+- Share your screen.
+- Chat on a chatbox that stays active during the whole meeting.
+  
+## Tech Stack
+
+**Client:** HTML, CSS, JavaScript. 
+
+**Server:** Node.JS, Express.JS.
 
 
-Designed and built a responsive user interface using HTML and CSS, ensuring a seamless experience across various devices and screen sizes.
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/rajarshisg/Google-Meet-Clone.git
+```
+
+Go to the project directory
+
+```bash
+  cd Google-Meet-Clone
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm start
+```
 
 
-Utilized JavaScript for client-side scripting, enabling dynamic and interactive elements within the application.
+## Authors
 
+- [@rajarshisg](https://github.com/rajarshisg)
 
-Focused on security aspects to ensure private and protected video conferencing sessions.
+  
 
+    
 
-Created a scalable backend architecture using Node.js and Express.js to handle multiple concurrent video calls efficiently.
-
-
-Demonstrated proficiency in full-stack development by integrating frontend and backend technologies to create a cohesive, functional application.
-
+  
